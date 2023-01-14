@@ -108,6 +108,12 @@ To run the project, execute the following commands:
 - Twitter: [@Goruchie2](https://twitter.com/goruchie2). 
 - LinkedIn: [Marcos Gualtero Lourenzo](https://www.linkedin.com/in/marcosgualtero/). 
 
+👤 **Stanley Nnamani Wisdom AKA StarMindz**
+
+- GitHub: [@Starmindz](https://github.com/StarMindz)
+- LinkedIn: [Stanley Nnamani](https://www.linkedin.com/in/stanley-nnamani/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
